@@ -1,6 +1,6 @@
 # QuoteIT
 
-Technical Stacks: React.js, Node.js, Express.js, MongoDB, JavaScript, Python, CSS, HTML, RESTful API (MERN), Flask, Tensorflow
+Technical Stacks: React.js, Node.js, Express.js, MongoDB, JavaScript, Python, CSS, RESTful API (MERN), Flask, Tensorflow
 
 Developed a SAAS platform to solve the problem of searching a caption for any images uploaded by the user on social media with the help of machine learning.
 
